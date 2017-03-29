@@ -1,0 +1,1578 @@
+0 || Distributive justice || 0.0769230769231
+0 || Exercise of Freedom(s) || 0.04
+0 || Justice || 0.00909090909091
+0 || Human Dignity || 0.0294117647059
+0 || Economic || 0.0167597765363
+2 || Social || 0.012987012987
+2 || Environmental  || 0.125
+2 || Solidarity/Cooperation || 0.00813008130081
+2 || Economic || 0.00558659217877
+3 || Social || 0.012987012987
+5 || Service || 0.25
+5 || Exercise of Freedom(s) || 0.04
+5 || Common Good/General Welfare || 0.0181818181818
+5 || Social/Political || 0.037037037037
+5 || Conflict Processes/Conflict Resolution || 0.125
+8 || Economic  || 0.04
+8 || Culture || 0.0175438596491
+8 || Solidarity/Cooperation || 0.00813008130081
+9 || Justice || 0.00312506106787
+9 || Culture || 0.00603081960466
+9 || Solidarity/Cooperation || 0.0027947700607
+10 || Exercise of Freedom(s) || 0.04
+10 || Common Good/General Welfare || 0.0181818181818
+10 || Social || 0.012987012987
+10 || Democracy || 0.0714285714286
+10 || Economic  || 0.08
+10 || Family Life || 0.00980392156863
+10 || Equality || 0.0142857142857
+10 || Social/Political || 0.037037037037
+10 || Equality of Opportunity || 0.0140845070423
+10 || Justice || 0.0363636363636
+10 || Compassion/Empathy || 0.0175438596491
+10 || Economic (or Commutative) justice || 0.0526315789474
+10 || Relational Claims || 0.142857142857
+10 || Equality of Outcome || 0.1
+10 || Economic || 0.0167597765363
+11 || Government/The State || 0.00186660873893
+12 || Social || 0.012987012987
+12 || Political leaders/Public officials || 0.00676761855471
+12 || Workers/Employees || 0.00162041571028
+12 || Government/The State || 0.00103648212099
+12 || Migrants || 0.00166738428159
+12 || Economic || 0.00622932690184
+13 || Freedom(s) || 0.0175438596491
+14 || Social/Political || 0.037037037037
+14 || Culture || 0.0175438596491
+14 || Solidarity/Cooperation || 0.00813008130081
+14 || Economic || 0.00558659217877
+15 || Common Good/General Welfare || 0.0181818181818
+15 || Subsidiarity || 0.0714285714286
+15 || Family Life || 0.00980392156863
+15 || Equality of Opportunity || 0.0140845070423
+15 || Preferential Option for the poor and vulnerable || 0.015625
+16 || Duty to Others || 0.0277777777778
+16 || Peace || 0.166666666667
+17 || Duty to Others || 0.0277777777778
+17 || Charity || 0.05
+17 || Economic || 0.00558659217877
+21 || Human Dignity || 0.0294117647059
+22 || Social/Political || 0.00885014108767
+22 || International Organizations || 0.00645821106397
+22 || Government/The State || 0.00215273702132
+22 || Preferential Option for the poor and vulnerable || 0.00373365327136
+24 || As Juridical Persons || 0.0171082621083
+24 || Limitation of Freedom(s) || 0.00667037037037
+25 || Limitation of Freedom(s) || 0.00532177882993
+27 || Environmental  || 0.125
+27 || Ecological Responsibility/Environmental Sustainability || 0.111111111111
+27 || Economic || 0.00558659217877
+28 || Agency/Self-Determination/Participation || 0.0333333333333
+28 || Economic || 0.00558659217877
+30 || Respect/Tolerance || 0.0243902439024
+30 || Exercise of Freedom(s) || 0.04
+30 || Common Good/General Welfare || 0.0181818181818
+30 || Agency/Self-Determination/Participation || 0.0333333333333
+30 || Subsidiarity || 0.0714285714286
+30 || Preferential Option for the poor and vulnerable || 0.015625
+30 || Rule of Law || 0.0434782608696
+30 || Economic || 0.00558659217877
+33 || Economic (or Commutative) justice  || 0.0909090909091
+33 || Common Good/General Welfare || 0.0181818181818
+33 || Social || 0.012987012987
+33 || Agency/Self-Determination/Participation || 0.0333333333333
+33 || Freedom(s) || 0.0175438596491
+33 || Environmental  || 0.125
+33 || Family Life || 0.00612864405182
+33 || Political leaders/Public officials || 0.00965564844492
+33 || Equality || 0.00223864062509
+33 || Workers/Employees || 0.0134150640634
+33 || Social/Political || 0.037037037037
+33 || Equality of Opportunity || 0.0216157030745
+33 || Justice || 0.00909090909091
+33 || Compassion/Empathy || 0.0198872058045
+33 || Safety || 0.0878789564138
+33 || Human Dignity || 0.00460896599284
+33 || Employers || 0.0370568894726
+33 || As Juridical Persons  || 0.00321854948164
+33 || Family || 0.0142200973603
+33 || Economic (or Commutative) justice || 0.0526315789474
+33 || Government/The State || 0.00481725151613
+33 || Solidarity/Cooperation || 0.0325203252033
+33 || Equality of Outcome || 0.05
+33 || Preferential Option for the poor and vulnerable || 0.015625
+33 || Migrants || 0.0138039065001
+33 || Economic || 0.012760803907
+35 || Subsidiarity || 0.0714285714286
+35 || Family Life || 0.00980392156863
+35 || Equality || 0.0142857142857
+35 || Economic || 0.00558659217877
+39 || As Human Persons  || 0.118025109306
+39 || Respect/Tolerance || 0.00294058755753
+39 || Police/Law Enforcement || 0.0558111509406
+39 || Youth || 0.012099132936
+39 || Social || 0.00956062544
+39 || Agency/Self-Determination/Participation || 0.00539538750123
+39 || Armed forces/Military || 0.0372074339604
+39 || Freedom(s) || 0.0131927573959
+39 || Democracy || 0.0201732653497
+39 || International Tribunals/Courts || 0.0150705112323
+39 || Reconstruction & Rehabilitation || 0.0216174583478
+39 || Family Life || 0.00586969531346
+39 || Political leaders/Public officials || 0.00709200528581
+39 || Duty to Others || 0.0062012389934
+39 || Rule of Law  || 0.0108604378033
+39 || Equality || 0.00885974950206
+39 || Security || 0.0280472465618
+39 || Refugees || 0.152562499094
+39 || Workers/Employees || 0.0131696130132
+39 || Social/Political || 0.00446533666143
+39 || International Organizations || 0.0102128448125
+39 || Religious || 0.0564626203679
+39 || Equality of Opportunity || 0.00690389504821
+39 || Justice || 0.00512233050387
+39 || Compassion/Empathy || 0.00759986500588
+39 || Stateless Persons || 0.0762812495468
+39 || Unions || 0.084278386443
+39 || Safety || 0.0191803062055
+39 || Educational Institutions || 0.036539190473
+39 || Ethnic/Racial/Cultural || 0.0322168834403
+39 || Corporate Social Responsibility || 0.00523099260149
+39 || Employers || 0.0580383319721
+39 || International Entities || 0.223244603762
+39 || As Juridical Persons  || 0.00402853072265
+39 || Spiritual || 0.0128978273056
+39 || Family || 0.00768011975017
+39 || Culture || 0.0157295316912
+39 || Government/The State || 0.0157983181964
+39 || Children || 0.0112925240736
+39 || Solidarity/Cooperation || 0.00726270108962
+39 || Accountability || 0.00564469328745
+39 || Civil society || 0.0616036773858
+39 || Equality of Outcome || 0.00745391453791
+39 || Preferential Option for the poor and vulnerable || 0.00197540485536
+39 || Migrants || 0.0135513409267
+39 || Rule of Law || 0.00796505207364
+39 || Economic || 0.00284167672558
+39 || Courts/Judicial authorities || 0.0216971633966
+41 || Spiritual || 0.0222222222222
+42 || Respect/Tolerance || 0.0243902439024
+42 || Equality of Opportunity || 0.0140845070423
+42 || Economic (or Commutative) justice || 0.0526315789474
+43 || Accused/Alleged || 0.0255866308531
+43 || Youth || 0.00731046595803
+43 || Family Life || 0.00100339728836
+43 || Political leaders/Public officials || 0.00602038373014
+43 || Workers/Employees || 0.00144150032975
+43 || Offender/Convicted || 0.0170577539021
+43 || Justice || 0.00352555525273
+43 || Human Dignity || 0.0114062081706
+43 || Detained Persons/Imprisoned Persons || 0.0146209319161
+43 || As Juridical Persons  || 0.00559734420367
+43 || Family || 0.0017346868375
+43 || Culture || 0.00179555304232
+43 || Government/The State || 0.000922040751463
+43 || Children || 0.00682310156083
+43 || Spouses || 0.0341155078041
+43 || Migrants || 0.00148328294801
+43 || Courts/Judicial authorities || 0.00731046595803
+43 || Restorative justice || 0.0341155078041
+45 || Economic (or Commutative) justice  || 0.0909090909091
+45 || Equality of Opportunity || 0.0140845070423
+45 || Corporate Social Responsibility || 0.0454545454545
+45 || Economic || 0.00558659217877
+50 || Jus in Bello (Law of War)  || 0.179530662917
+50 || Freedom(s) || 0.00467097644455
+50 || Family Life || 0.0035202090768
+50 || Justice || 0.00242041506672
+50 || As Juridical Persons  || 0.00522050308509
+50 || Rule of Law || 0.0115758981452
+51 || Common Good/General Welfare || 0.0909090909091
+51 || Social || 0.012987012987
+51 || Agency/Self-Determination/Participation || 0.0666666666667
+51 || Family Life || 0.0112677251771
+51 || State and Individual Relational Claims || 0.142857142857
+51 || Workers/Employees || 0.0021029291276
+51 || Social/Political || 0.037037037037
+51 || Equality of Opportunity || 0.0021029291276
+51 || Human Dignity || 0.0294117647059
+51 || Diversity || 0.0625
+51 || Family || 0.00253064352643
+51 || Culture || 0.0350877192982
+51 || Government/The State || 0.00134511682937
+51 || Solidarity/Cooperation || 0.0162601626016
+51 || Social (or legal ) justice || 0.166666666667
+51 || Migrants || 0.00216388359507
+51 || Sources of Freedom(s) || 0.1
+51 || Economic || 0.0223463687151
+52 || Common Good/General Welfare || 0.0181818181818
+52 || Democracy || 0.0714285714286
+52 || Equality || 0.00200543024227
+52 || Security || 0.00484069368825
+52 || Justice || 0.00127618288145
+52 || Compassion/Empathy || 0.00246280906946
+53 || Justice || 0.00241696450181
+53 || Preferential Option for the poor and vulnerable || 0.00415415773749
+55 || Social || 0.012987012987
+55 || Preferential Option for the poor and vulnerable || 0.015625
+55 || Economic || 0.00558659217877
+62 || Social (or legal ) justice  || 0.166666666667
+62 || Subsidiarity || 0.0100045652742
+62 || Political leaders/Public officials || 0.00823905375519
+62 || International Organizations || 0.00378551118482
+62 || Charity || 0.05
+62 || Courts/Judicial authorities || 0.0100045652742
+65 || Culture || 0.0175438596491
+66 || Parents || 0.0662194617388
+66 || Respect/Tolerance || 0.117574468648
+66 || Common Good/General Welfare || 0.0181818181818
+66 || Freedom(s) || 0.0799241292564
+66 || Economic  || 0.08
+66 || Limitation of Freedom(s) || 0.0509012038691
+66 || Family Life || 0.0152783818182
+66 || Duty to Others || 0.0277777777778
+66 || Workers/Employees || 0.00373067390078
+66 || Social/Political || 0.037037037037
+66 || Equality of Opportunity || 0.0140845070423
+66 || Corporate Social Responsibility || 0.0454545454545
+66 || Spiritual || 0.084901182546
+66 || Family || 0.00448945503314
+66 || Culture || 0.0175438596491
+66 || Government/The State || 0.00238628690951
+66 || Children || 0.0176585231304
+66 || Solidarity/Cooperation || 0.0162601626016
+66 || Development/Human Flourishing/Integral Human Development  || 0.0769230769231
+66 || Migrants || 0.00383880937616
+66 || Economic || 0.0111731843575
+68 || Conflict Processes/Conflict Resolution  || 0.0563172425824
+68 || Political leaders/Public officials || 0.0352973177096
+68 || International Organizations || 0.0212491343988
+68 || Government/The State || 0.0070830447996
+68 || Solidarity/Cooperation || 0.000915727521665
+68 || Accountability || 0.159324004712
+68 || Conflict Processes/Conflict Resolution || 0.0403020930204
+69 || Social || 0.012987012987
+69 || Spiritual || 0.0222222222222
+69 || Culture || 0.0175438596491
+69 || Economic || 0.00558659217877
+70 || Respect/Tolerance || 0.00985703909088
+70 || Family Life || 0.0112392831689
+70 || Rule of Law  || 0.031763080288
+70 || Workers/Employees || 0.00459735554786
+70 || Family || 0.00553241091352
+70 || Migrants || 0.0047306122304
+71 || Distributive justice || 0.0118264837477
+71 || Common Good/General Welfare || 0.0181818181818
+71 || Economic  || 0.00614977154881
+71 || Environmental  || 0.125
+71 || Family Life || 0.00150729694824
+71 || Family || 0.00260583540204
+71 || Government/The State || 0.00138508368216
+71 || Solidarity/Cooperation || 0.00938003486764
+71 || Ecological Responsibility/Environmental Sustainability || 0.111111111111
+71 || Economic || 0.0111731843575
+73 || Transitional justice || 1.0
+73 || Respect/Tolerance || 0.0487804878049
+73 || Exercise of Freedom(s) || 0.12
+73 || Common Good/General Welfare || 0.0181818181818
+73 || Limitation of Freedom(s) || 0.0333333333333
+73 || Justice || 0.00149557693449
+73 || Human Dignity || 0.00483863125866
+73 || Diversity || 0.0625
+73 || Dialogue || 0.2
+73 || Preferential Option for the poor and vulnerable || 0.00257052285616
+73 || Sources of Freedom(s) || 0.2
+73 || Rule of Law || 0.0434782608696
+74 || Respect/Tolerance || 0.0243902439024
+78 || Government/The State || 0.00245137944241
+78 || Preferential Option for the poor and vulnerable || 0.015625
+80 || Respect/Tolerance || 0.0243902439024
+80 || Exercise of Freedom(s) || 0.04
+80 || Democracy || 0.0714285714286
+80 || Social/Political || 0.037037037037
+80 || Peace || 0.166666666667
+80 || Development/Human Flourishing/Integral Human Development  || 0.0769230769231
+82 || Youth || 0.00880199466646
+82 || Armed forces/Military || 0.0205379875551
+82 || Justice || 0.00112025386664
+82 || Compassion/Empathy || 0.00216189342685
+82 || Government/The State || 0.00111016148946
+82 || Children || 0.00821519502203
+82 || Solidarity/Cooperation || 0.00100185305147
+82 || Vulnerable/Poor || 0.12322792533
+82 || Preferential Option for the poor and vulnerable || 0.00192543633329
+82 || Courts/Judicial authorities || 0.00880199466646
+84 || Justice || 0.0033104148749
+84 || Solidarity/Cooperation || 0.00296053362796
+84 || Economic || 0.00558659217877
+86 || Social || 0.012987012987
+86 || Reconstruction & Rehabilitation || 0.142857142857
+86 || Safety || 0.166666666667
+90 || As Juridical Persons || 0.0195170703412
+90 || Equality || 0.00362459877765
+92 || Social || 0.00626201014252
+92 || International Tribunals/Courts || 0.0413508272192
+92 || Government/The State || 0.00298023979958
+92 || Preferential Option for the poor and vulnerable || 0.00753398095272
+92 || Conflict Processes/Conflict Resolution || 0.0413508272192
+99 || Agency/Self-Determination/Participation || 0.0333333333333
+99 || Environmental  || 0.125
+99 || Economic || 0.0111731843575
+100 || Economic  || 0.04
+100 || Compassion/Empathy || 0.0175438596491
+101 || Economic (or Commutative) justice  || 0.0909090909091
+101 || Social || 0.012987012987
+101 || Equality || 0.0182717079088
+101 || Equality of Opportunity || 0.0039298528678
+101 || Justice || 0.00909090909091
+101 || As Juridical Persons  || 0.00547097163948
+101 || Ecological Responsibility/Environmental Sustainability || 0.111111111111
+101 || Economic || 0.00558659217877
+102 || Freedom(s) || 0.00485262479032
+102 || International Organizations || 0.00747566521752
+102 || Equality of Opportunity || 0.00389576919786
+102 || Government/The State || 0.00249188840584
+102 || Solidarity/Cooperation || 0.00224877734186
+112 || Accused/Alleged || 0.0262553776544
+112 || Freedom(s) || 0.00184248264241
+112 || International Tribunals/Courts || 0.0131276888272
+112 || Courts/Judicial authorities || 0.00750153647269
+114 || State and Individual Relational Claims || 0.042869047619
+114 || Justice || 0.00545606060606
+116 || Rule of Law  || 0.0139907312416
+116 || Security || 0.0110960971916
+116 || As Juridical Persons  || 0.0063095454619
+117 || Exercise of Freedom(s) || 0.04
+117 || As Juridical Persons || 0.0128276353276
+117 || Common Good/General Welfare || 0.0363636363636
+117 || Subsidiarity || 0.0714285714286
+117 || Family Life || 0.0196078431373
+117 || Political leaders/Public officials || 0.00980936819172
+117 || Duty to Others || 0.0277777777778
+117 || Equality || 0.00238227513228
+117 || Offender/Convicted || 0.0277932098765
+117 || Equality of Opportunity || 0.0281690140845
+117 || Justice || 0.00909090909091
+117 || Corporate Social Responsibility || 0.0454545454545
+117 || Economic (or Commutative) justice || 0.0526315789474
+117 || Economic || 0.00558659217877
+118 || Equality || 0.00240702607144
+120 || Family Life || 0.00326933551198
+120 || Preferential Option for the poor and vulnerable || 0.00521050347222
+121 || Respect/Tolerance || 0.00238512400607
+121 || Freedom(s) || 0.00171561551314
+121 || Family Life || 0.00236069988037
+121 || State and Individual Relational Claims || 0.0102143788249
+121 || Spiritual || 0.00217311298331
+121 || Government/The State || 0.00216929178196
+121 || Accountability || 0.0365020214913
+124 || Democracy || 0.0714285714286
+124 || State and Individual Relational Claims || 0.0714285714286
+124 || Social/Political || 0.037037037037
+125 || Parents || 0.0554988886837
+125 || Youth || 0.0091716461621
+125 || Social || 0.012987012987
+125 || Society || 0.0467962542327
+125 || Family Life || 0.00429861341889
+125 || Conflict Prevention || 0.0935925084654
+125 || Workers/Employees || 0.00180849360943
+125 || International Organizations || 0.00252952725582
+125 || Religious || 0.0311975028218
+125 || Equality of Opportunity || 0.00617547279896
+125 || Educational Institutions || 0.0554988886837
+125 || Ethnic/Racial/Cultural || 0.0103991676073
+125 || As Juridical Persons  || 0.00251770678959
+125 || Culture || 0.00164197383273
+125 || Government/The State || 0.00084317575194
+125 || Children || 0.014799703649
+125 || Solidarity/Cooperation || 0.00988994320318
+125 || Dialogue || 0.0187185016931
+125 || Development/Human Flourishing/Integral Human Development  || 0.0071994237281
+125 || Migrants || 0.00186091371405
+127 || Exercise of Freedom(s) || 0.04
+127 || Family Life || 0.00980392156863
+127 || Spiritual || 0.0222222222222
+127 || Culture || 0.0175438596491
+127 || Dialogue || 0.4
+127 || Development/Human Flourishing/Integral Human Development  || 0.0769230769231
+132 || Common Good/General Welfare || 0.0181818181818
+132 || Social || 0.012987012987
+132 || Agency/Self-Determination/Participation || 0.0333333333333
+132 || Economic  || 0.04
+132 || Duty to Others || 0.00950625063427
+132 || Security || 0.0118008628563
+132 || Rule of Law || 0.0157084580901
+133 || Political leaders/Public officials || 0.0115110826939
+133 || Workers/Employees || 0.00275617472954
+133 || As Juridical Persons  || 0.00383702756465
+133 || Family || 0.00331675264063
+133 || Migrants || 0.00283606385213
+133 || Rule of Law || 0.0085081915564
+135 || Security || 0.00993840397849
+135 || Justice || 0.00262012468524
+135 || Solidarity/Cooperation || 0.00234320093802
+137 || Workers/Employees || 0.00276996276549
+137 || Government/The State || 0.00177177798513
+137 || Migrants || 0.0028502515413
+138 || Distributive justice || 0.0769230769231
+138 || Common Good/General Welfare || 0.0181818181818
+138 || Environmental  || 0.125
+138 || Equality of Opportunity || 0.0281690140845
+138 || Spiritual || 0.0222222222222
+138 || Preferential Option for the poor and vulnerable || 0.015625
+138 || Ecological Responsibility/Environmental Sustainability || 0.111111111111
+138 || Economic || 0.0111731843575
+141 || Human Dignity || 0.00505606022609
+141 || Solidarity/Cooperation || 0.0013976101438
+143 || Respect/Tolerance || 0.0243902439024
+143 || Youth || 0.0166150141724
+143 || Ontological Claims || 0.25
+143 || Government/The State || 0.00209558737309
+144 || Respect/Tolerance || 0.00254149728738
+144 || Common Good/General Welfare || 0.0181818181818
+144 || Social || 0.038961038961
+144 || Agency/Self-Determination/Participation || 0.00196853958362
+144 || Family Life || 0.00326832616279
+144 || Political leaders/Public officials || 0.00645951503687
+144 || Equality || 0.00305733063442
+144 || Security || 0.00378661226299
+144 || International Organizations || 0.0201579201156
+144 || Compassion/Empathy || 0.0198410880908
+144 || Ethnic/Racial/Cultural || 0.0115779320869
+144 || Diversity || 0.0065125867989
+144 || Culture || 0.0194703816777
+144 || Government/The State || 0.00394207799448
+144 || Solidarity/Cooperation || 0.0325203252033
+144 || Development/Human Flourishing/Integral Human Development || 0.117048776073
+144 || Economic || 0.0279329608939
+149 || Criminals || 0.0948667482824
+149 || Rule of Law  || 0.00824928245934
+149 || Security || 0.00654253436431
+149 || Workers/Employees || 0.00267230276852
+149 || Justice || 0.00172484996877
+149 || Employers || 0.0189733496565
+149 || Family || 0.00321582197568
+149 || Government/The State || 0.00170931077986
+149 || Migrants || 0.00274976081978
+152 || Workers/Employees || 0.00327715706573
+152 || Family || 0.00394369748588
+152 || Migrants || 0.00337214712561
+153 || Preferential Option for the poor and vulnerable || 0.00317226024765
+157 || Security || 0.0132555001494
+157 || As Juridical Persons  || 0.00753744126141
+159 || Sick/Wounded || 0.149765544006
+159 || As Human Persons  || 0.0299531088012
+159 || Common Good/General Welfare || 0.0181818181818
+159 || Agency/Self-Determination/Participation || 0.0333333333333
+159 || Family Life || 0.00146828964712
+159 || Social/Political || 0.037037037037
+159 || Compassion/Empathy || 0.00262746568432
+159 || Pregnant or Nursing || 0.074882772003
+159 || Culture || 0.0022850248602
+159 || Government/The State || 0.00252263027961
+159 || Children || 0.00998436960041
+159 || Solidarity/Cooperation || 0.00813008130081
+160 || Economic  || 0.0119036894568
+160 || Family Life || 0.0127214925139
+160 || Workers/Employees || 0.00419143994959
+160 || Equality of Opportunity || 0.0182759469918
+160 || Corporate Social Responsibility || 0.0135269198373
+160 || Women || 0.0743980591052
+160 || Family || 0.00504393621052
+160 || Economic (or Commutative) justice || 0.0526315789474
+162 || Social || 0.038961038961
+162 || Agency/Self-Determination/Participation || 0.0333333333333
+162 || Family Life || 0.00980392156863
+162 || Justice || 0.00102659722889
+162 || Compassion/Empathy || 0.00198115254697
+162 || Human Dignity || 0.00332134397581
+162 || Solidarity/Cooperation || 0.0162601626016
+162 || Economic || 0.00558659217877
+163 || Respect/Tolerance || 0.0243902439024
+163 || Freedom(s) || 0.0175438596491
+163 || State and Individual Relational Claims || 0.0714285714286
+167 || Accused/Alleged || 0.0717866931558
+167 || Police/Law Enforcement || 0.0717866931558
+167 || Social (or legal ) justice  || 0.0641934325807
+167 || Freedom(s) || 0.0117948661071
+167 || Political leaders/Public officials || 0.0168909866249
+167 || Security || 0.0132813998443
+167 || Workers/Employees || 0.00404432074117
+167 || Justice || 0.00611188516461
+167 || Detained Persons/Imprisoned Persons || 0.0410209675176
+167 || As Juridical Persons  || 0.0131824974139
+167 || Family || 0.00486689445124
+167 || Government/The State || 0.00258690786147
+167 || Civil society || 0.0574293545246
+167 || Migrants || 0.00416154742932
+167 || Rule of Law || 0.012484642288
+167 || Courts/Judicial authorities || 0.0205104837588
+169 || Family Life || 0.00260562780818
+170 || Common Good/General Welfare || 0.0181818181818
+170 || Justice || 0.00909090909091
+170 || Diversity || 0.0625
+170 || Equality of Outcome || 0.05
+170 || Social (or legal ) justice || 0.166666666667
+170 || Economic || 0.0111731843575
+171 || Economic (or Commutative) justice  || 0.0909090909091
+171 || Distributive justice || 0.0769230769231
+171 || Common Good/General Welfare || 0.0181818181818
+171 || Social || 0.0519480519481
+171 || Freedom(s) || 0.0175438596491
+171 || Economic  || 0.04
+171 || Subsidiarity || 0.0714285714286
+171 || Reconstruction & Rehabilitation || 0.142857142857
+171 || Duty to Others || 0.0277777777778
+171 || Equality || 0.0142857142857
+171 || Social/Political || 0.0740740740741
+171 || Justice || 0.0181818181818
+171 || Solidarity/Cooperation || 0.0162601626016
+171 || Social (or legal ) justice || 0.166666666667
+171 || Economic || 0.0223463687151
+174 || Freedom(s) || 0.0032564688222
+174 || Duty to Others || 0.00515607563515
+174 || International Organizations || 0.0050167222396
+174 || Culture || 0.0032564688222
+174 || Government/The State || 0.00167224074653
+176 || Economic (or Commutative) justice  || 0.0909090909091
+176 || Spiritual || 0.0444444444444
+176 || Solidarity/Cooperation || 0.00813008130081
+176 || Economic || 0.00558659217877
+177 || Economic (or Commutative) justice  || 0.0909090909091
+177 || Social || 0.025974025974
+177 || Social (or legal ) justice  || 0.166666666667
+177 || Family Life || 0.0219133224656
+177 || Duty to Others || 0.0277777777778
+177 || Workers/Employees || 0.00331209706325
+177 || Equality of Opportunity || 0.0140845070423
+177 || Unions || 0.0391931485818
+177 || Human Dignity || 0.0294117647059
+177 || Family || 0.00398574392357
+177 || Equality of Outcome || 0.05
+177 || Preferential Option for the poor and vulnerable || 0.015625
+177 || Migrants || 0.00340809987667
+177 || Economic || 0.0124869211815
+180 || Spiritual || 0.0222222222222
+181 || Compassion/Empathy || 0.00156740051496
+181 || Human Dignity || 0.00262770086331
+183 || Service || 0.25
+183 || Common Good/General Welfare || 0.0909090909091
+183 || Social/Political || 0.037037037037
+183 || Solidarity/Cooperation || 0.0243902439024
+183 || Economic || 0.0167597765363
+185 || Workers/Employees || 0.00444591621799
+185 || Employers || 0.0315660051477
+185 || Family || 0.00535017036402
+185 || Migrants || 0.00457478335474
+186 || Family Life || 0.00118904021635
+186 || International Organizations || 0.00327789465049
+186 || Government/The State || 0.00109263155016
+189 || Workers/Employees || 0.00210323873036
+189 || Family || 0.00253101609924
+189 || Migrants || 0.00216420217182
+195 || Equality of Outcome || 0.05
+196 || Service || 0.25
+196 || Common Good/General Welfare || 0.0181818181818
+196 || Social || 0.012987012987
+196 || Economic  || 0.04
+196 || Family Life || 0.00980392156863
+196 || Social/Political || 0.037037037037
+196 || Justice || 0.00909090909091
+196 || Spiritual || 0.0222222222222
+196 || Economic (or Commutative) justice || 0.0526315789474
+196 || Charity || 0.1
+196 || Solidarity/Cooperation || 0.00813008130081
+196 || Equality of Outcome || 0.05
+196 || Preferential Option for the poor and vulnerable || 0.015625
+196 || Economic || 0.0111731843575
+199 || Agency/Self-Determination/Participation || 0.0101473680826
+199 || Ecological Responsibility/Environmental Sustainability  || 0.0380526303099
+199 || Freedom(s) || 0.0053407200435
+199 || Family Life || 0.00254982929824
+199 || Diversity || 0.0162551617763
+199 || Spiritual || 0.00577961307601
+199 || Culture || 0.00456285242843
+200 || Solidarity/Cooperation || 0.000917137599972
+200 || Preferential Option for the poor and vulnerable || 0.015625
+207 || Democracy || 0.0714285714286
+207 || Justice || 0.00909090909091
+207 || Charity || 0.05
+207 || Preferential Option for the poor and vulnerable || 0.015625
+207 || Development/Human Flourishing/Integral Human Development  || 0.0769230769231
+210 || Economic (or Commutative) justice  || 0.0909090909091
+210 || Relational Claims || 0.142857142857
+210 || Preferential Option for the poor and vulnerable || 0.015625
+212 || Culture || 0.0225593531706
+212 || Economic || 0.00558659217877
+213 || Equality of Opportunity || 0.00320898295445
+214 || Exercise of Freedom(s) || 0.04
+214 || Common Good/General Welfare || 0.0181818181818
+214 || Social || 0.012987012987
+214 || Justice || 0.00205974610793
+214 || Human Dignity || 0.0294117647059
+214 || Solidarity/Cooperation || 0.00184204936481
+214 || Equality of Outcome || 0.05
+214 || Economic || 0.00558659217877
+215 || Respect/Tolerance || 0.0243902439024
+215 || Social || 0.021172680794
+215 || Freedom(s) || 0.0110578319498
+215 || Economic  || 0.04
+215 || Family Life || 0.00980392156863
+215 || Duty to Others || 0.0555555555556
+215 || Equality || 0.0142857142857
+215 || Social/Political || 0.037037037037
+215 || Equality of Opportunity || 0.0140845070423
+215 || Justice || 0.0181818181818
+215 || Human Dignity || 0.136185188857
+215 || Corporate Social Responsibility || 0.0454545454545
+215 || As Juridical Persons  || 0.0196078431373
+215 || Family || 0.00530717508349
+215 || Culture || 0.0110578319498
+215 || Government/The State || 0.00282093090023
+215 || Solidarity/Cooperation || 0.0162601626016
+215 || Relational Claims || 0.142857142857
+215 || Sources of Freedom(s) || 0.1
+215 || Economic || 0.0146943934142
+216 || Compassion/Empathy || 0.0058753006432
+217 || Exercise of Freedom(s) || 0.04
+217 || Social || 0.012987012987
+217 || Ontological Claims || 0.25
+217 || State and Individual Relational Claims || 0.0714285714286
+217 || Spiritual || 0.0222222222222
+217 || Relational Claims || 0.285714285714
+217 || Economic || 0.00558659217877
+218 || Youth || 0.0118003856288
+218 || Society || 0.0826026994013
+218 || Family Life || 0.00161966077257
+218 || Workers/Employees || 0.00232683660285
+218 || Women || 0.0413013497006
+218 || Pregnant or Nursing || 0.0826026994013
+218 || Mothers || 0.165205398803
+218 || Family || 0.00280009150513
+218 || Government/The State || 0.00148833692615
+218 || Children || 0.0110136932535
+218 || Spouses || 0.0550684662675
+223 || As Juridical Persons || 0.012407468747
+223 || Freedom(s) || 0.00247759149399
+223 || Reconstruction & Rehabilitation || 0.0219823220939
+223 || Limitation of Freedom(s) || 0.0102859105759
+223 || Family Life || 0.00513813298109
+223 || Rule of Law  || 0.0135903512713
+223 || Security || 0.0106405971475
+223 || Workers/Employees || 0.0159885449326
+223 || Equality of Opportunity || 0.00850248291678
+223 || Compassion/Empathy || 0.00278424253653
+223 || As Juridical Persons  || 0.00414728401631
+223 || Family || 0.010425387934
+223 || Government/The State || 0.00405225254445
+223 || Children || 0.0141007656555
+223 || Solidarity/Cooperation || 0.00114815215575
+223 || Preferential Option for the poor and vulnerable || 0.0033048669505
+223 || Migrants || 0.0164519810176
+223 || Economic || 0.00258353950801
+224 || Economic  || 0.0114301587302
+224 || Reconstruction & Rehabilitation || 0.0408219954649
+224 || Equality of Opportunity || 0.0038417626974
+224 || Compassion/Empathy || 0.00979858104858
+224 || Preferential Option for the poor and vulnerable || 0.00446490575397
+224 || Economic || 0.0015238276621
+225 || Equality of Opportunity || 0.0140845070423
+225 || Justice || 0.00269061845919
+225 || Compassion/Empathy || 0.00519242158792
+225 || As Juridical Persons  || 0.0196078431373
+225 || Solidarity/Cooperation || 0.0105363254513
+225 || Preferential Option for the poor and vulnerable || 0.00462450047674
+230 || Exercise of Freedom(s) || 0.08
+230 || Diversity || 0.0625
+230 || Solidarity/Cooperation || 0.00813008130081
+230 || Rule of Law || 0.0434782608696
+232 || Family Life || 0.00107263449842
+232 || Equality of Opportunity || 0.00154096787098
+232 || Economic || 0.000611221892957
+233 || Common Good/General Welfare || 0.0181818181818
+233 || Democracy || 0.0714285714286
+233 || Subsidiarity || 0.0714285714286
+233 || Rule of Law  || 0.0434782608696
+233 || Economic || 0.00558659217877
+234 || Common Good/General Welfare || 0.0181818181818
+234 || Charity || 0.05
+234 || Preferential Option for the poor and vulnerable || 0.015625
+235 || Family Life || 0.00289079452646
+235 || Workers/Employees || 0.0041529724183
+235 || Justice || 0.00268055492454
+235 || Family || 0.00499764477456
+235 || Migrants || 0.00427334843042
+237 || Freedom(s) || 0.00554662573744
+237 || International Organizations || 0.00410184688425
+237 || Government/The State || 0.00314301756842
+237 || Solidarity/Cooperation || 0.00133649863672
+242 || Justice || 0.00133337513058
+242 || Compassion/Empathy || 0.00257318007656
+242 || Human Dignity || 0.00431386071659
+243 || Preferential Option for the poor and vulnerable || 0.015625
+246 || Economic (or Commutative) justice  || 0.0909090909091
+246 || As Human Persons  || 0.0343698767398
+246 || Common Good/General Welfare || 0.0181818181818
+246 || Social || 0.012987012987
+246 || Ontological Claims || 0.0429623459247
+246 || Economic  || 0.04
+246 || Equality || 0.0167407054814
+246 || Social/Political || 0.037037037037
+246 || International Organizations || 0.00464457793781
+246 || Religious || 0.0572831278996
+246 || Equality of Opportunity || 0.0140845070423
+246 || Justice || 0.0181818181818
+246 || Ethnic/Racial/Cultural || 0.0190943759665
+246 || Human Dignity || 0.0050543936382
+246 || Corporate Social Responsibility || 0.136363636364
+246 || Diversity || 0.0107405864812
+246 || Women || 0.0429623459247
+246 || As Juridical Persons  || 0.0033695957588
+246 || Spiritual || 0.0222222222222
+246 || Government/The State || 0.00154819264594
+246 || Solidarity/Cooperation || 0.00813008130081
+246 || Economic || 0.0223463687151
+247 || Solidarity/Cooperation || 0.00813008130081
+248 || Social || 0.012987012987
+248 || Preferential Option for the poor and vulnerable || 0.00252121005181
+248 || Economic || 0.00558659217877
+251 || Economic || 0.00558659217877
+253 || As Human Persons  || 0.2
+253 || Respect/Tolerance || 0.0243902439024
+253 || Common Good/General Welfare || 0.0181818181818
+253 || Freedom(s) || 0.0175438596491
+253 || Duty to Others || 0.0277777777778
+253 || State and Individual Relational Claims || 0.0714285714286
+253 || Social/Political || 0.037037037037
+253 || Rule of Law || 0.0434782608696
+254 || Equality || 0.00618469785575
+259 || Respect/Tolerance || 0.00558009190575
+259 || Police/Law Enforcement || 0.057195942034
+259 || Political leaders/Public officials || 0.0134578687139
+259 || Equality || 0.0032683395448
+259 || International Organizations || 0.00618334508476
+259 || Ethnic/Racial/Cultural || 0.0254204186818
+259 || Diversity || 0.0260242459252
+259 || As Juridical Persons  || 0.00816446930985
+259 || Government/The State || 0.00375124265588
+259 || Civil society || 0.0457567536272
+259 || Courts/Judicial authorities || 0.016341697724
+263 || Equality of Outcome || 0.05
+264 || Exercise of Freedom(s) || 0.04
+264 || Agency/Self-Determination/Participation || 0.0333333333333
+264 || Freedom(s) || 0.00241346965849
+264 || Subsidiarity || 0.014276428956
+264 || Family Life || 0.00352136308776
+264 || Equality || 0.0039846012326
+264 || Workers/Employees || 0.00306795379159
+264 || Justice || 0.00125061609576
+264 || As Juridical Persons  || 0.00696848019092
+264 || Family || 0.00608778025341
+264 || Jus in Bello (Law of War) || 0.0788569561444
+264 || Government/The State || 0.00196238485768
+264 || Solidarity/Cooperation || 0.00813008130081
+264 || Preferential Option for the poor and vulnerable || 0.0178336611836
+264 || Migrants || 0.00520549326016
+270 || Economic (or Commutative) justice || 0.0526315789474
+270 || Economic || 0.00558659217877
+273 || Family Life || 0.00143466404363
+273 || Justice || 0.00133032484046
+273 || Compassion/Empathy || 0.00256729355176
+273 || Accountability || 0.00564767325762
+275 || Respect/Tolerance || 0.0243902439024
+275 || Justice || 0.00258774224277
+275 || Spiritual || 0.0222222222222
+275 || Solidarity/Cooperation || 0.00231424103012
+275 || Development/Human Flourishing/Integral Human Development  || 0.0769230769231
+279 || Respect/Tolerance || 0.0243902439024
+279 || Jus in Bello (Law of War)  || 0.5
+279 || Family Life || 0.00980392156863
+279 || Corporate Social Responsibility || 0.0454545454545
+279 || Spiritual || 0.0444444444444
+279 || Charity || 0.05
+279 || Preferential Option for the poor and vulnerable || 0.015625
+279 || Economic || 0.0111731843575
+280 || Family Life || 0.00134657612196
+280 || Workers/Employees || 0.00193451780902
+280 || Family || 0.00232797905831
+280 || Government/The State || 0.00123739427424
+280 || Children || 0.00915671762934
+280 || Migrants || 0.00199059078899
+281 || Trust and Transparency || 0.0714484126984
+281 || Justice || 0.00194859307359
+282 || Equality || 0.00397547548188
+282 || Workers/Employees || 0.00391948286946
+282 || Family || 0.00471666582596
+282 || Solidarity/Cooperation || 0.0022624657214
+282 || Migrants || 0.00403309106858
+285 || Common Good/General Welfare || 0.0181818181818
+285 || Economic  || 0.04
+285 || Economic (or Commutative) justice || 0.0526315789474
+286 || Common Good/General Welfare || 0.0181818181818
+286 || Subsidiarity || 0.0714285714286
+286 || Family Life || 0.00191761486805
+286 || Compassion/Empathy || 0.00343152134283
+286 || Corporate Social Responsibility || 0.0454545454545
+286 || As Juridical Persons  || 0.0038352297361
+286 || Economic (or Commutative) justice || 0.0526315789474
+286 || Solidarity/Cooperation || 0.00813008130081
+286 || Economic || 0.0111731843575
+289 || Agency/Self-Determination/Participation || 0.00376433691756
+289 || Democracy || 0.00806643625192
+289 || As Juridical Persons  || 0.00221431583386
+290 || Common Good/General Welfare || 0.0181818181818
+290 || Agency/Self-Determination/Participation || 0.0666666666667
+290 || Democracy || 0.0714285714286
+290 || Social/Political || 0.037037037037
+290 || Spiritual || 0.0222222222222
+290 || Solidarity/Cooperation || 0.0325203252033
+290 || Economic || 0.0111731843575
+292 || Respect/Tolerance || 0.0243902439024
+292 || Justice || 0.00909090909091
+292 || Culture || 0.0175438596491
+296 || Exercise of Freedom(s) || 0.08
+296 || As Juridical Persons || 0.0229247600399
+296 || Duty to Others || 0.0555555555556
+296 || Equality || 0.00425745543599
+296 || Social/Political || 0.037037037037
+297 || Family Life || 0.00165939332854
+297 || As Juridical Persons  || 0.00331878665708
+300 || Economic (or Commutative) justice  || 0.0909090909091
+300 || Accused/Alleged || 0.0600839679444
+300 || Youth || 0.0171668479841
+300 || Ontological Claims || 0.25
+300 || International Tribunals/Courts || 0.0300419839722
+300 || Equality || 0.00781070582836
+300 || Workers/Employees || 0.00338501227856
+300 || Offender/Convicted || 0.0400559786296
+300 || Justice || 0.0049704491635
+300 || As Juridical Persons  || 0.0107205766272
+300 || Family || 0.00407348935216
+300 || Charity || 0.05
+300 || Solidarity/Cooperation || 0.00813008130081
+300 || Preferential Option for the poor and vulnerable || 0.015625
+300 || Migrants || 0.00348312857648
+300 || Sources of Freedom(s) || 0.1
+300 || Rule of Law || 0.0104493857295
+300 || Courts/Judicial authorities || 0.0171668479841
+302 || Limitation of Freedom(s) || 0.0333333333333
+302 || Workers/Employees || 0.00225316493
+302 || International Organizations || 0.00432364081163
+302 || Corporate Social Responsibility || 0.0454545454545
+302 || Diversity || 0.0625
+302 || Employers || 0.015997471003
+302 || Family || 0.00271143576322
+302 || Culture || 0.0175438596491
+302 || Government/The State || 0.00144121360388
+302 || Preferential Option for the poor and vulnerable || 0.00249960484422
+302 || Migrants || 0.00231847405841
+302 || Economic || 0.00558659217877
+307 || International Tribunals/Courts || 0.0463245903691
+307 || Government/The State || 0.00333870921579
+307 || Preferential Option for the poor and vulnerable || 0.00579057379613
+308 || Youth || 0.0102660454588
+308 || Social || 0.00186655371978
+308 || Family Life || 0.00140906506297
+308 || Equality || 0.00205320909176
+308 || Workers/Employees || 0.00202429065385
+308 || Educational Institutions || 0.0359311591058
+308 || Family || 0.00243601078684
+308 || Culture || 0.00252148484953
+308 || Government/The State || 0.00129481654435
+308 || Children || 0.00958164242822
+308 || Migrants || 0.00208296574527
+313 || Family Life || 0.00127948280762
+313 || As Juridical Persons  || 0.00255896561523
+316 || Criminals || 0.211211132418
+316 || Exercise of Freedom(s) || 0.04
+316 || Common Good/General Welfare || 0.0363636363636
+316 || Freedom(s) || 0.0350877192982
+316 || Workers/Employees || 0.00594960936389
+316 || Offender/Convicted || 0.0704037108061
+316 || Justice || 0.00919177245098
+316 || As Juridical Persons  || 0.0115426020543
+316 || Family || 0.00715969940401
+316 || Culture || 0.0175438596491
+316 || Migrants || 0.00612206180922
+316 || Rule of Law || 0.174395433461
+318 || Agency/Self-Determination/Participation || 0.0333333333333
+318 || Equality of Opportunity || 0.0140845070423
+318 || Economic || 0.00558659217877
+319 || Economic || 0.0111731843575
+323 || Distributive justice || 0.0769230769231
+323 || Common Good/General Welfare || 0.0363636363636
+323 || Social || 0.012987012987
+323 || Economic  || 0.04
+323 || Family Life || 0.00980392156863
+323 || Equality of Opportunity || 0.0422535211268
+323 || Justice || 0.00909090909091
+323 || Environmental || 0.5
+323 || Spiritual || 0.0222222222222
+323 || Economic (or Commutative) justice || 0.105263157895
+323 || Development/Human Flourishing/Integral Human Development  || 0.0769230769231
+323 || Ecological Responsibility/Environmental Sustainability || 0.111111111111
+323 || Economic || 0.0111731843575
+326 || Family Life || 0.00222666622494
+326 || Compassion/Empathy || 0.00398456061304
+330 || Limitation of Freedom(s) || 0.00707480880348
+330 || Family Life || 0.00228978656949
+330 || Rule of Law  || 0.00729137447177
+330 || Security || 0.00722177681065
+330 || International Organizations || 0.00453247602299
+330 || Justice || 0.00548132893186
+330 || Corporate Social Responsibility || 0.00951961488676
+330 || Government/The State || 0.001510825341
+330 || Solidarity/Cooperation || 0.00558978637471
+330 || Accountability || 0.0126490133336
+330 || Preferential Option for the poor and vulnerable || 0.00262033770079
+330 || Development/Human Flourishing/Integral Human Development  || 0.0134886214981
+330 || Social (or legal ) justice || 0.0292253465791
+334 || Equality of Outcome || 0.05
+334 || Economic || 0.00558659217877
+335 || Distributive justice || 0.230769230769
+335 || Common Good/General Welfare || 0.0727272727273
+335 || Social || 0.116883116883
+335 || Agency/Self-Determination/Participation || 0.0333333333333
+335 || Social (or legal ) justice  || 0.333333333333
+335 || Economic  || 0.04
+335 || Subsidiarity || 0.0714285714286
+335 || Duty to Others || 0.0277777777778
+335 || Equality || 0.0170094494398
+335 || Social/Political || 0.0740740740741
+335 || Equality of Opportunity || 0.0704225352113
+335 || Justice || 0.0181818181818
+335 || Compassion/Empathy || 0.0175438596491
+335 || Stateless Persons || 0.0953307303925
+335 || Corporate Social Responsibility || 0.0454545454545
+335 || As Juridical Persons  || 0.0233463031526
+335 || Spiritual || 0.0222222222222
+335 || Culture || 0.0175438596491
+335 || Economic (or Commutative) justice || 0.105263157895
+335 || Government/The State || 0.00171767081788
+335 || Charity || 0.15
+335 || Solidarity/Cooperation || 0.0422004996812
+335 || Equality of Outcome || 0.05
+335 || Preferential Option for the poor and vulnerable || 0.015625
+335 || Social (or legal ) justice || 0.333333333333
+335 || Economic || 0.150837988827
+336 || Economic (or Commutative) justice || 0.0526315789474
+336 || Economic || 0.00558659217877
+339 || Respect/Tolerance || 0.00954457128393
+339 || Freedom(s) || 0.0127265993658
+339 || Family Life || 0.00711192317503
+339 || Equality || 0.00271523044034
+339 || Spiritual || 0.0161203591967
+339 || Solidarity/Cooperation || 0.00173344425006
+341 || As Juridical Persons || 0.0209829059829
+341 || Equality || 0.00389682539683
+341 || Equality of Opportunity || 0.0140845070423
+342 || Respect/Tolerance || 0.00516810727873
+342 || As Juridical Persons || 0.0476735715408
+342 || Youth || 0.0218729304357
+342 || Social || 0.00506472624225
+342 || Agency/Self-Determination/Participation || 0.0253111635684
+342 || Armed forces/Military || 0.0275437812555
+342 || Ecological Responsibility/Environmental Sustainability  || 0.0651154666816
+342 || Freedom(s) || 0.00590448345479
+342 || Democracy || 0.0316208427996
+342 || International Tribunals/Courts || 0.0535363633708
+342 || Limitation of Freedom(s) || 0.0187554248212
+342 || Family Life || 0.0256160573539
+342 || Political leaders/Public officials || 0.0108164189055
+342 || Duty to Others || 0.0117626102199
+342 || Rule of Law  || 0.0237379120082
+342 || Equality || 0.0212907616683
+342 || State and Individual Relational Claims || 0.00748707360691
+342 || Victims || 0.137783505583
+342 || Security || 0.0330547643705
+342 || Workers/Employees || 0.0322971672539
+342 || Social/Political || 0.0068103378294
+342 || International Organizations || 0.0285314500072
+342 || Equality of Opportunity || 0.00941061797383
+342 || Justice || 0.0198838634941
+342 || Compassion/Empathy || 0.0213989836208
+342 || Unions || 0.0233516188966
+342 || Employers || 0.0214270915804
+342 || Detained Persons/Imprisoned Persons || 0.0227394168101
+342 || As Juridical Persons  || 0.0166319809125
+342 || Family || 0.0330760272581
+342 || Jus in Bello (Law of War) || 0.0705570600149
+342 || Culture || 0.0221228719514
+342 || Government/The State || 0.034390639923
+342 || Children || 0.00939722257112
+342 || Spouses || 0.0469861128556
+342 || Solidarity/Cooperation || 0.0122982543792
+342 || Preferential Option for the poor and vulnerable || 0.0087550312582
+342 || Migrants || 0.0332333170294
+342 || Rule of Law || 0.0270779630202
+342 || Economic || 0.00561268071504
+342 || Courts/Judicial authorities || 0.0052972287446
+342 || Restorative justice || 0.0349396768322
+346 || Economic  || 0.04
+346 || Solidarity/Cooperation || 0.00813008130081
+348 || Equality of Outcome || 0.05
+349 || Common Good/General Welfare || 0.0181818181818
+349 || Economic  || 0.04
+349 || Preferential Option for the poor and vulnerable || 0.015625
+357 || Compassion/Empathy || 0.00785298736615
+357 || Preferential Option for the poor and vulnerable || 0.00699406687298
+358 || Justice || 0.00519292866719
+358 || Compassion/Empathy || 0.00493216428617
+358 || Preferential Option for the poor and vulnerable || 0.0107124415382
+359 || Social/Political || 0.0162508727414
+359 || International Organizations || 0.0118587449735
+359 || Human Dignity || 0.0129051048241
+359 || Diversity || 0.0625
+359 || Spiritual || 0.00975052364485
+359 || Government/The State || 0.00395291499116
+359 || Economic || 0.002451248961
+359 || Genocide || 0.438773564018
+360 || Rule of Law  || 0.00770646049215
+360 || Justice || 0.00161135083018
+360 || Solidarity/Cooperation || 0.00144104545788
+360 || Preferential Option for the poor and vulnerable || 0.00276950923937
+362 || Duty to Others || 0.0277777777778
+362 || Equality of Opportunity || 0.0140845070423
+362 || Corporate Social Responsibility || 0.0454545454545
+366 || Exercise of Freedom(s) || 0.00528215045209
+366 || Agency/Self-Determination/Participation || 0.0333333333333
+366 || As Juridical Persons  || 0.0025892894373
+366 || Solidarity/Cooperation || 0.00107360781547
+367 || Equality || 0.00363054435484
+367 || Equality of Opportunity || 0.00176129694836
+367 || Human Dignity || 0.0294117647059
+367 || Solidarity/Cooperation || 0.00813008130081
+367 || Economic || 0.0063077431369
+369 || Economic || 0.00558659217877
+371 || Exercise of Freedom(s) || 0.0216916232093
+371 || Social || 0.00316570398585
+371 || Social (or legal ) justice  || 0.166666666667
+371 || Freedom(s) || 0.0278426479934
+371 || Limitation of Freedom(s) || 0.0422362017411
+371 || Family Life || 0.0142927595023
+371 || Duty to Others || 0.00645419081262
+371 || Equality || 0.0142857142857
+371 || Security || 0.0132018983829
+371 || Workers/Employees || 0.0171209045095
+371 || Equality of Opportunity || 0.0140845070423
+371 || Justice || 0.00909090909091
+371 || Unions || 0.0406265344851
+371 || Human Dignity || 0.0294117647059
+371 || Family || 0.0206031223758
+371 || Culture || 0.00427647731422
+371 || Economic (or Commutative) justice || 0.0526315789474
+371 || Peacekeeping & Disarmament || 1.0
+371 || Solidarity/Cooperation || 0.00440886650596
+371 || Equality of Outcome || 0.0134527662091
+371 || Migrants || 0.0176171626112
+371 || Sources of Freedom(s) || 0.1
+371 || Economic || 0.0181215598151
+372 || Common Good/General Welfare || 0.0181818181818
+372 || Social || 0.002078998012
+372 || Freedom(s) || 0.00280847099867
+372 || Equality || 0.0022868978132
+372 || As Juridical Persons  || 0.00313887935145
+372 || Charity || 0.05
+372 || Solidarity/Cooperation || 0.00813008130081
+372 || Equality of Outcome || 0.05
+372 || Ecological Responsibility/Environmental Sustainability || 0.111111111111
+372 || Economic || 0.000894317580582
+373 || Agency/Self-Determination/Participation || 0.013327707961
+373 || Freedom(s) || 0.00689749553309
+373 || Equality || 0.00287061842569
+373 || Human Dignity || 0.007174378877
+375 || Freedom(s) || 0.00305237732011
+375 || Workers/Employees || 0.00245050010206
+375 || As Juridical Persons  || 0.00341148053424
+375 || Family || 0.00294890690248
+375 || Migrants || 0.00252152909053
+378 || Government/The State || 0.00181520240395
+378 || Solidarity/Cooperation || 0.00163810948649
+378 || Civil society || 0.0402974933677
+380 || Youth || 0.0126756489902
+380 || Justice || 0.00161326441693
+380 || Compassion/Empathy || 0.00311331729584
+380 || Detained Persons/Imprisoned Persons || 0.0253512979804
+380 || Government/The State || 0.00159873050327
+380 || Children || 0.0118306057242
+384 || Equality || 0.00367580332652
+384 || Workers/Employees || 0.00362403144868
+384 || Migrants || 0.0037290758385
+385 || Distributive justice || 0.0769230769231
+385 || Exercise of Freedom(s) || 0.04
+385 || Social || 0.025974025974
+385 || Culture || 0.0175438596491
+385 || Solidarity/Cooperation || 0.00813008130081
+385 || Preferential Option for the poor and vulnerable || 0.015625
+385 || Economic || 0.0111731843575
+390 || Government/The State || 0.00286658898801
+393 || Freedom(s) || 0.00404659894717
+393 || Equality || 0.00329508771412
+393 || Development/Human Flourishing/Integral Human Development  || 0.0177427799991
+394 || Agency/Self-Determination/Participation || 0.0192915210469
+394 || Freedom(s) || 0.00388999652971
+394 || Duty to Others || 0.00615916117204
+394 || International Organizations || 0.00599269735658
+394 || Government/The State || 0.00165984301933
+394 || Economic || 0.00323321581792
+397 || Family Life || 0.00201456426788
+397 || Equality || 0.00293550793319
+397 || Culture || 0.00360500974251
+398 || Respect/Tolerance || 0.0113848238482
+398 || Equality || 0.00666825396825
+398 || Diversity || 0.0291736111111
+398 || As Juridical Persons  || 0.00915250544662
+399 || Exercise of Freedom(s) || 0.00410775057728
+399 || Limitation of Freedom(s) || 0.00342312548107
+399 || Political leaders/Public officials || 0.00604080967248
+399 || International Organizations || 0.00277550714681
+399 || Solidarity/Cooperation || 0.00083490865392
+404 || Social || 0.00468159836617
+404 || Justice || 0.00152828435749
+404 || Culture || 0.00294932068988
+404 || Solidarity/Cooperation || 0.00136675836848
+404 || Preferential Option for the poor and vulnerable || 0.0056325480343
+404 || Economic || 0.00107470276465
+405 || Family Life || 0.00193091867834
+405 || Duty to Others || 0.0277777777778
+405 || Workers/Employees || 0.00277399584775
+405 || Equality of Opportunity || 0.00277399584775
+405 || Compassion/Empathy || 0.0175438596491
+405 || Family || 0.00333819839305
+405 || Charity || 0.05
+405 || Migrants || 0.0028544015245
+407 || Social || 0.012987012987
+407 || Justice || 0.00909090909091
+414 || Compassion/Empathy || 0.0175438596491
+415 || Social || 0.012987012987
+415 || Spiritual || 0.0222222222222
+415 || Economic || 0.00558659217877
+416 || Trust and Transparency || 0.0681303023186
+416 || Common Good/General Welfare || 0.00174495035115
+416 || Subsidiarity || 0.0196513666355
+416 || Reconstruction & Rehabilitation || 0.022355344632
+416 || Limitation of Freedom(s) || 0.0109327827622
+416 || Family Life || 0.00153419031788
+416 || Rule of Law  || 0.0202657438016
+416 || State and Individual Relational Claims || 0.034954625917
+416 || Security || 0.002963034077
+416 || Workers/Employees || 0.00136046359723
+416 || Social/Political || 0.00685954571425
+416 || International Organizations || 0.00813052846506
+416 || Justice || 0.0188536403534
+416 || As Juridical Persons  || 0.00168486251437
+416 || Government/The State || 0.00271017615502
+416 || Solidarity/Cooperation || 0.0145054614631
+416 || Accountability || 0.0222848398582
+416 || Development/Human Flourishing/Integral Human Development  || 0.0142467487911
+416 || Migrants || 0.00139989732468
+416 || Economic || 0.0010346800798
+416 || Restorative justice || 0.0486944084401
+423 || Common Good/General Welfare || 0.0181818181818
+423 || Subsidiarity || 0.0714285714286
+423 || Economic (or Commutative) justice || 0.0526315789474
+424 || Security || 0.0113548268202
+425 || Limitation of Freedom(s) || 0.0333333333333
+425 || Economic || 0.00558659217877
+430 || Justice || 0.00286783367693
+430 || Rule of Law || 0.013715726281
+435 || Social || 0.012987012987
+435 || Economic || 0.00558659217877
+439 || Preferential Option for the poor and vulnerable || 0.00269578600255
+444 || Respect/Tolerance || 0.0243902439024
+444 || Common Good/General Welfare || 0.00459602294892
+444 || Social || 0.012987012987
+444 || Freedom(s) || 0.0175438596491
+444 || Democracy || 0.0714285714286
+444 || Subsidiarity || 0.0714285714286
+444 || Limitation of Freedom(s) || 0.00842604207302
+444 || Family Life || 0.0196078431373
+444 || Duty to Others || 0.0277777777778
+444 || Justice || 0.00909090909091
+444 || Compassion/Empathy || 0.0175438596491
+444 || Spiritual || 0.0444444444444
+444 || Culture || 0.0175438596491
+444 || Government/The State || 0.00227730866838
+444 || Charity || 0.05
+444 || Solidarity/Cooperation || 0.00813008130081
+444 || Relational Claims || 0.142857142857
+444 || Preferential Option for the poor and vulnerable || 0.015625
+446 || Respect/Tolerance || 0.00445408563923
+446 || Freedom(s) || 0.00848455389067
+446 || Limitation of Freedom(s) || 0.0114632802347
+446 || Duty to Others || 0.00836116834889
+446 || Security || 0.00556141020116
+446 || Workers/Employees || 0.00257207762265
+446 || Diversity || 0.0100800559896
+446 || Family || 0.00309521205438
+446 || Culture || 0.00565506449008
+446 || Migrants || 0.00264663059722
+447 || Social || 0.00359349121445
+447 || Limitation of Freedom(s) || 0.00922329411708
+447 || Justice || 0.00251544385011
+450 || Family Life || 0.00258430052261
+451 || Respect/Tolerance || 0.0243902439024
+451 || Common Good/General Welfare || 0.0181818181818
+451 || Democracy || 0.0714285714286
+451 || Rule of Law  || 0.00731292078159
+451 || Equality || 0.0142857142857
+451 || Security || 0.00579990268885
+451 || Social/Political || 0.037037037037
+451 || Compassion/Empathy || 0.00284663280791
+451 || As Juridical Persons  || 0.0064795146672
+451 || Spiritual || 0.0222222222222
+451 || Equality of Outcome || 0.05
+451 || Economic || 0.00558659217877
+452 || Service || 0.062663306463
+452 || Freedom(s) || 0.00439742501495
+452 || Rule of Law  || 0.0035128315913
+452 || Security || 0.00864321468455
+452 || Workers/Employees || 0.00353032712468
+452 || Offender/Convicted || 0.041775537642
+452 || Justice || 0.000734501150909
+452 || Human Dignity || 0.00237632725294
+452 || Detained Persons/Imprisoned Persons || 0.0358076036932
+452 || Family || 0.0042483597602
+452 || Preferential Option for the poor and vulnerable || 0.00126242385312
+452 || Migrants || 0.00363265544713
+452 || Courts/Judicial authorities || 0.0179038018466
+457 || Family Life || 0.00194442090211
+457 || Political leaders/Public officials || 0.0116665254126
+457 || Workers/Employees || 0.00279339340866
+457 || Compassion/Empathy || 0.00347949003535
+457 || Family || 0.00336154122059
+457 || Government/The State || 0.00178676515329
+457 || Migrants || 0.00287436133355
+459 || Respect/Tolerance || 0.0243902439024
+459 || As Juridical Persons || 0.00984031847082
+459 || Justice || 0.00172293002266
+459 || Ethnic/Racial/Cultural || 0.0210580336103
+459 || As Juridical Persons  || 0.00371612357828
+459 || Government/The State || 0.00170740813056
+459 || Courts/Judicial authorities || 0.0135373073209
+467 || Equality || 0.00170701024954
+467 || Ethnic/Racial/Cultural || 0.0132767463853
+467 || Diversity || 0.00746816984172
+467 || As Juridical Persons  || 0.00234295524446
+467 || Government/The State || 0.00107649295016
+471 || Justice || 0.00129942279942
+471 || Rule of Law || 0.00621463077985
+472 || Distributive justice || 0.0769230769231
+472 || Family Life || 0.00980392156863
+472 || As Juridical Persons  || 0.0060342121747
+472 || Solidarity/Cooperation || 0.0025019904139
+474 || Agency/Self-Determination/Participation || 0.0101137641968
+474 || Ecological Responsibility/Environmental Sustainability  || 0.0379266157379
+474 || Freedom(s) || 0.00212624778532
+474 || Environmental  || 0.125
+474 || Equality of Opportunity || 0.0140845070423
+474 || Economic (or Commutative) justice || 0.0526315789474
+474 || Ecological Responsibility/Environmental Sustainability || 0.111111111111
+474 || Sources of Freedom(s) || 0.1
+474 || Economic || 0.00558659217877
+476 || Equality of Opportunity || 0.0140845070423
+476 || Solidarity/Cooperation || 0.00813008130081
+476 || Economic || 0.00558659217877
+477 || Social || 0.00221782442188
+477 || Reconstruction & Rehabilitation || 0.0243960686407
+477 || Human Dignity || 0.00502272001427
+478 || As Juridical Persons || 0.0220244453955
+478 || Equality || 0.00716110070388
+478 || Security || 0.0319861478511
+478 || Compassion/Empathy || 0.0200448692423
+478 || As Juridical Persons  || 0.0113137005878
+478 || Preferential Option for the poor and vulnerable || 0.00547811808912
+480 || Exercise of Freedom(s) || 0.00715862644627
+480 || Equality || 0.00255665230224
+480 || Compassion/Empathy || 0.00313974844135
+483 || Common Good/General Welfare || 0.0363636363636
+483 || Social || 0.025974025974
+483 || Freedom(s) || 0.0350877192982
+483 || Equality || 0.0142857142857
+483 || State and Individual Relational Claims || 0.0714285714286
+483 || Equality of Opportunity || 0.0422535211268
+483 || Justice || 0.00909090909091
+483 || Economic (or Commutative) justice || 0.0526315789474
+483 || Charity || 0.05
+483 || Solidarity/Cooperation || 0.00813008130081
+483 || Equality of Outcome || 0.05
+483 || Economic || 0.0167597765363
+486 || Respect/Tolerance || 0.0243902439024
+486 || Freedom(s) || 0.0077816284207
+486 || Inter-faith || 1.0
+488 || Justice || 0.00159848484848
+488 || Compassion/Empathy || 0.00308479532164
+488 || Solidarity/Cooperation || 0.00142953929539
+488 || Preferential Option for the poor and vulnerable || 0.00274739583333
+490 || Security || 0.00625581549687
+490 || International Organizations || 0.00490320674079
+490 || Government/The State || 0.001651840634
+491 || Family Life || 0.00178099775423
+491 || International Organizations || 0.00490977759275
+491 || Equality of Opportunity || 0.002558616492
+491 || Government/The State || 0.00163659253092
+491 || Economic || 0.00101487022867
+492 || Equality || 0.00213945920592
+492 || Equality of Opportunity || 0.00453328160472
+492 || Ecological Responsibility/Environmental Sustainability || 0.0166402382683
+492 || Economic || 0.000878807729001
+493 || Economic (or Commutative) justice  || 0.0909090909091
+493 || As Human Persons  || 0.0282502256785
+493 || Social || 0.012987012987
+493 || Economic  || 0.08
+493 || Duty to Others || 0.0277777777778
+493 || Equality || 0.00201787326275
+493 || Equality of Opportunity || 0.00198945251257
+493 || Corporate Social Responsibility || 0.0454545454545
+493 || Environmental || 0.5
+493 || As Juridical Persons  || 0.00276962996848
+493 || Spiritual || 0.0222222222222
+493 || Culture || 0.0350877192982
+493 || Charity || 0.05
+493 || Solidarity/Cooperation || 0.00927846445847
+493 || Peacekeeping & Disarmament  || 1.0
+493 || Peace || 0.190208521399
+493 || Preferential Option for the poor and vulnerable || 0.015625
+493 || Development/Human Flourishing/Integral Human Development  || 0.0108654714148
+493 || Economic || 0.0167597765363
+494 || Equality of Opportunity || 0.0140845070423
+494 || Safety || 0.166666666667
+494 || Spiritual || 0.0222222222222
+497 || Social || 0.012987012987
+498 || Spiritual || 0.0222222222222
+500 || Family Life || 0.0036838868412
+503 || Justice || 0.0034914113012
+503 || Compassion/Empathy || 0.00673781128302
+503 || Economic || 0.00558659217877
+505 || Social || 0.012987012987
+505 || Corporate Social Responsibility || 0.0454545454545
+505 || Economic || 0.00558659217877
+506 || Police/Law Enforcement || 0.035010054128
+506 || Political leaders/Public officials || 0.00823765979482
+506 || Equality || 0.0020005745216
+506 || Ethnic/Racial/Cultural || 0.0155600240569
+506 || Diversity || 0.00875251353199
+506 || As Juridical Persons  || 0.00274588659827
+506 || Government/The State || 0.00126162357218
+506 || Courts/Judicial authorities || 0.010002872608
+508 || Respect/Tolerance || 0.0243902439024
+508 || Social || 0.00383902516001
+508 || Equality || 0.0086535860546
+508 || Economic || 0.00165142423084
+511 || Economic (or Commutative) justice  || 0.0909090909091
+511 || Family Life || 0.00183705630665
+511 || Political leaders/Public officials || 0.0110223378399
+511 || Rule of Law  || 0.00814694535994
+511 || Workers/Employees || 0.00263915131378
+511 || Justice || 0.00170345221162
+511 || Corporate Social Responsibility || 0.0454545454545
+511 || Family || 0.00317592785218
+511 || Migrants || 0.00271564845331
+511 || Courts/Judicial authorities || 0.013384267377
+515 || Agency/Self-Determination/Participation || 0.0333333333333
+515 || Economic  || 0.04
+515 || Limitation of Freedom(s) || 0.0333333333333
+525 || Preferential Option for the poor and vulnerable || 0.03125
+529 || Equality of Opportunity || 0.00435234914966
+529 || Culture || 0.00542134718642
+532 || Family Life || 0.00180153469865
+532 || Equality || 0.0051336539532
+532 || Equality of Opportunity || 0.0025881202713
+532 || Compassion/Empathy || 0.00630448731095
+532 || As Juridical Persons  || 0.00344312230317
+534 || Respect/Tolerance || 0.0243902439024
+534 || Ecological Responsibility/Environmental Sustainability  || 0.0176509746082
+534 || Economic  || 0.00748413480406
+534 || Limitation of Freedom(s) || 0.00510055241347
+534 || Family Life || 0.00182256590216
+534 || Duty to Others || 0.00392243880183
+534 || Equality || 0.00235341469348
+534 || Workers/Employees || 0.00153449799502
+534 || Equality of Opportunity || 0.00550715939677
+534 || Justice || 0.00649295371529
+534 || Compassion/Empathy || 0.0043204250375
+534 || Women || 0.038254143101
+534 || As Juridical Persons  || 0.00323017703027
+534 || Government/The State || 0.00404566937074
+534 || Solidarity/Cooperation || 0.00468226160056
+534 || Accountability || 0.013251613312
+534 || Preferential Option for the poor and vulnerable || 0.00292349015784
+534 || Rule of Law || 0.00473692859333
+534 || Economic || 0.00060865562931
+537 || Common Good/General Welfare || 0.0181818181818
+537 || Corporate Social Responsibility || 0.0454545454545
+537 || Culture || 0.0175438596491
+537 || Solidarity/Cooperation || 0.00813008130081
+537 || Economic || 0.00558659217877
+539 || Respect/Tolerance || 0.00533647220693
+539 || As Juridical Persons || 0.0294019345303
+539 || Freedom(s) || 0.00383851509621
+539 || Conflict Processes/Conflict Resolution  || 0.0456822615079
+539 || Equality || 0.00546035926991
+539 || International Organizations || 0.00246931143286
+539 || Offender/Convicted || 0.036465893414
+539 || Spiritual || 0.00486211912187
+539 || Government/The State || 0.0047439350317
+539 || Solidarity/Cooperation || 0.000742801000129
+539 || Conflict Processes/Conflict Resolution || 0.01957719361
+541 || Corporate Social Responsibility || 0.0454545454545
+541 || Economic || 0.00558659217877
+542 || Justice || 0.00318257575758
+542 || Rule of Law || 0.0152210144928
+544 || Respect/Tolerance || 0.0243902439024
+544 || Economic  || 0.04
+544 || Duty to Others || 0.0277777777778
+544 || Rule of Law  || 0.0101395401781
+544 || Compassion/Empathy || 0.00409139340521
+544 || Preferential Option for the poor and vulnerable || 0.00364389725151
+546 || Family Life || 0.00299888979496
+546 || Duty to Others || 0.00849685441904
+546 || Workers/Employees || 0.00430826421247
+546 || Family || 0.00518452134043
+546 || Culture || 0.022910294019
+546 || Migrants || 0.00443314143602
+549 || International Tribunals/Courts || 0.0228599690215
+549 || Justice || 0.00166254320157
+549 || Government/The State || 0.00164756533489
+549 || Children || 0.0121919834782
+549 || Solidarity/Cooperation || 0.00148682725343
+553 || Freedom(s) || 0.00282881601205
+553 || Family Life || 0.00526843294846
+553 || Duty to Others || 0.010893370168
+553 || Workers/Employees || 0.00756873465835
+553 || Justice || 0.00146584102443
+553 || Human Dignity || 0.035131097419
+553 || Family || 0.00910813831767
+553 || Peace || 0.0268737521145
+553 || Migrants || 0.00778811827163
+554 || Distributive justice || 0.0769230769231
+554 || Economic (or Commutative) justice || 0.0526315789474
+557 || Equality || 0.00156263582779
+557 || Human Dignity || 0.0294117647059
+557 || Solidarity/Cooperation || 0.00813008130081
+557 || Economic || 0.00619767881534
+558 || Equality of Opportunity || 0.0140845070423
+558 || Economic || 0.00558659217877
+559 || Distributive justice || 0.0769230769231
+559 || Economic  || 0.04
+559 || Limitation of Freedom(s) || 0.0333333333333
+559 || Equality of Opportunity || 0.0140845070423
+559 || Economic || 0.00558659217877
+561 || Duty to Others || 0.0038596995184
+569 || Limitation of Freedom(s) || 0.0140115228352
+569 || Diversity || 0.0625
+569 || Spiritual || 0.0222222222222
+570 || Common Good/General Welfare || 0.0181818181818
+570 || Social || 0.0157156008333
+570 || Environmental  || 0.125
+570 || Family Life || 0.00205981631531
+570 || Spiritual || 0.00466891698136
+570 || Solidarity/Cooperation || 0.00983822165985
+570 || Preferential Option for the poor and vulnerable || 0.015625
+570 || Ecological Responsibility/Environmental Sustainability || 0.111111111111
+570 || Economic || 0.0167597765363
+572 || Distributive justice || 0.0769230769231
+572 || Freedom(s) || 0.0175438596491
+572 || Duty to Others || 0.0277777777778
+572 || Charity || 0.05
+572 || Development/Human Flourishing/Integral Human Development  || 0.0769230769231
+572 || Economic || 0.00558659217877
+576 || Respect/Tolerance || 0.0243902439024
+576 || Charity || 0.05
+576 || Preferential Option for the poor and vulnerable || 0.015625
+576 || Conflict Processes/Conflict Resolution || 0.0749016382994
+577 || Social || 0.00987516713163
+577 || Security || 0.0151340583774
+577 || International Organizations || 0.00863322721472
+577 || Justice || 0.0085134254263
+577 || Safety || 0.0532382344908
+577 || Human Dignity || 0.0145740686677
+577 || Corporate Social Responsibility || 0.0225235606683
+577 || Culture || 0.0112611299976
+577 || Government/The State || 0.0178677893529
+577 || Solidarity/Cooperation || 0.00715322077346
+577 || Preferential Option for the poor and vulnerable || 0.00688997597173
+579 || Duty to Others || 0.0277777777778
+579 || Compassion/Empathy || 0.0175438596491
+582 || Political leaders/Public officials || 0.0249531215245
+582 || Duty to Others || 0.0120473799949
+582 || Security || 0.0146276919282
+582 || International Organizations || 0.0220893877375
+582 || Human Dignity || 0.0127560494063
+582 || Corporate Social Responsibility || 0.0192819575417
+582 || As Juridical Persons  || 0.00850403293755
+582 || Government/The State || 0.00736312924583
+582 || Solidarity/Cooperation || 0.00697486785148
+582 || Preferential Option for the poor and vulnerable || 0.00677665124711
+583 || Respect/Tolerance || 0.0243902439024
+583 || Exercise of Freedom(s) || 0.04
+583 || Social || 0.012987012987
+583 || Duty to Others || 0.0277777777778
+583 || Equality || 0.0142857142857
+583 || Spiritual || 0.0222222222222
+583 || Sources of Freedom(s) || 0.2
+583 || Economic || 0.00558659217877
+585 || Agency/Self-Determination/Participation || 0.0333333333333
+585 || Rule of Law  || 0.0484516602262
+585 || Equality || 0.0142857142857
+585 || State and Individual Relational Claims || 0.0390624798378
+585 || Equality of Opportunity || 0.0140845070423
+585 || Compassion/Empathy || 0.037094529565
+585 || Charity || 0.05
+585 || Solidarity/Cooperation || 0.00813008130081
+585 || Economic || 0.0111731843575
+586 || Trust and Transparency || 0.333333333333
+586 || Respect/Tolerance || 0.0243902439024
+586 || Common Good/General Welfare || 0.0181818181818
+586 || Social || 0.012987012987
+586 || Freedom(s) || 0.00525371383895
+586 || Limitation of Freedom(s) || 0.0333333333333
+586 || Duty to Others || 0.0360961580228
+586 || Social/Political || 0.01109117366
+586 || Equality of Opportunity || 0.0140845070423
+586 || Human Dignity || 0.00880769673
+586 || Spiritual || 0.006654704196
+586 || Culture || 0.00525371383895
+586 || Government/The State || 0.00269785305243
+586 || Relational Claims || 0.142857142857
+586 || Equality of Outcome || 0.1
+586 || Dialogue || 0.2
+586 || Sources of Freedom(s) || 0.029946168882
+586 || Economic || 0.0111731843575
+588 || Respect/Tolerance || 0.00350411262118
+588 || Social || 0.012987012987
+588 || Ecological Responsibility/Environmental Sustainability  || 0.0179585771835
+588 || Family Life || 0.00980392156863
+588 || Equality || 0.00205240882098
+588 || Equality of Opportunity || 0.0140845070423
+588 || Spiritual || 0.0222222222222
+588 || Culture || 0.00252050206085
+588 || Peace || 0.023944769578
+588 || Development/Human Flourishing/Integral Human Development  || 0.0110514321129
+588 || Economic || 0.0111731843575
+589 || Spiritual || 0.0222222222222
+589 || Charity || 0.05
+590 || Parents || 0.0465121258302
+590 || Youth || 0.0460939108142
+590 || Armed forces/Military || 0.107552458567
+590 || International Organizations || 0.00502833792759
+590 || Justice || 0.0037181396322
+590 || Compassion/Empathy || 0.00414595424311
+590 || Detained Persons/Imprisoned Persons || 0.0603382707398
+590 || Government/The State || 0.005813646409
+590 || Children || 0.0124032335547
+590 || Preferential Option for the poor and vulnerable || 0.0100830429906
+592 || International Organizations || 0.00353916844202
+592 || Government/The State || 0.00117972281401
+592 || Solidarity/Cooperation || 0.00813008130081
+592 || Accountability || 0.0170787249545
+593 || Human Dignity || 0.0294117647059
+595 || Equality of Outcome || 0.05
+596 || As Juridical Persons  || 0.00294199346405
+596 || Culture || 0.00533211500975
+599 || Security || 0.00457511903209
+599 || Justice || 0.00236924952997
+599 || Government/The State || 0.00119530136874
+599 || Solidarity/Cooperation || 0.00211884104306
+599 || Preferential Option for the poor and vulnerable || 0.0176240468182
+599 || Economic || 0.00630133517523
